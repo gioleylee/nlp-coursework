@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.pt
+*.zip
+questions-words.*
+wiki_texts*
+word_relationships.png
